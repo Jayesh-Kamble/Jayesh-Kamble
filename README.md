@@ -13,13 +13,13 @@ Open-source projects, innovative tech ideas, and knowledge-sharing communities.
 - Open-source contribution workflows
 
 💬 **Ask me about:**  
-Anything tech-related, collaboration opportunities, or fun side projects!
+Anything tech-related things, collaboration opportunities, or fun side projects!
 
 🌱 **Seeking help with:**  
 Expanding my knowledge in tools, frameworks, and best practices in software development.
 
 ⚡ **Fun fact:**  
-I enjoy turning ideas into quick prototypes and love late-night coding sessions with coffee!
+I enjoy turning ideas into quick prototypes and love late-night coding sessions with  coffee!
 
 ---
 
