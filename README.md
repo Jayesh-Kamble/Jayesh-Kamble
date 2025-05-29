@@ -9,7 +9,8 @@ Open-source projects, innovative tech ideas, and knowledge-sharing communities.
 🧠 **Currently learning:**  
 - Web development  
 - Machine learning  
-- Backend frameworks  
+- Backend frameworks
+- Solving DSA Problems  
 - Open-source contribution workflows
 
 💬 **Ask me about:**  
