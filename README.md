@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Jayesh Kamble
 
 🔭 **Currently working on:** <br>
-Exciting projects that solve real-world problems using emerging technologies.
+Exciting projects that solve real-world problems using emerging new technologies.
 
 🤝 **Looking to collaborate on:** <br>
 Open-source projects, innovative tech ideas, and knowledge-sharing communities.
