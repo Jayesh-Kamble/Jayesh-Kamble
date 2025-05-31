@@ -11,7 +11,7 @@ Open-source projects, innovative tech ideas, and knowledge-sharing communities.
 - Machine learning  
 - Backend frameworks
 - Solving DSA Problems  
-- Open-source contribution workflows
+
 
 💬 **Ask me about:**  
 Anything tech-related things, collaboration opportunities, or fun side projects!
