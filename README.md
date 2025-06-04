@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Jayesh Kamble
 
 🔭 **Currently working on:** <br>
-Exciting projects that solve real-world problems using emerging new technologies.
+Exciting projects that  solve real-world problems using emerging new technologies.
 
 🤝 **Looking to collaborate on:** <br>
 Open-source projects, innovative tech ideas, and knowledge-sharing communities.
@@ -14,7 +14,7 @@ Open-source projects, innovative tech ideas, and knowledge-sharing communities.
 
 
 💬 **Ask me about:**  
-Anything tech-related things, collaboration opportunities, or fun side projects!
+Anything Tech-related things, collaboration opportunities, or fun side projects!
 
 🌱 **Seeking help with:**  
 Expanding my knowledge in tools, frameworks, and best practices in software development.
@@ -24,7 +24,7 @@ I enjoy turning ideas into quick prototypes and love late-night coding sessions 
 
 ---
 
-## 🌐 Socials
+## 🌐 Socials 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayesh-kamble-/) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jayeshavkamble@gmail.com)
