@@ -9,7 +9,7 @@ Open-source projects, innovative tech ideas, and knowledge-sharing communities.
 🧠 **Currently learning:**  
 - Web development  
 - Machine learning  
-- Backend frameworks
+- Backend frameworks(Django)
 - Solving DSA Problems  
 
 
